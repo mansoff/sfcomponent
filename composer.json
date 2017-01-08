@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "symfony/console": "^3.2",
+        "symfony/dependency-injection": "^3.2"
+    }
+}
